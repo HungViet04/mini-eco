@@ -1,0 +1,16 @@
+const users = [
+    {
+        id: 1,
+        username: 'user',
+        password: '123456',
+        role: 'user'
+    },
+    // {
+    //     id: 2,
+    //     username: 'admin',
+    //     password: 'admin123',
+    //     role: 'admin'
+    // }
+];
+
+module.exports = users;
